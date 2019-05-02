@@ -1,5 +1,5 @@
 # Menu survey submissions
-![Program Improvement](EPI-logo-star.png)
+![Program Improvement](https://github.com/roywperez/survey-submissions/blob/master/images/EPI-logo-star.png)
 
 ### Menu surveysubmissions
 #### Scope:
