@@ -5,3 +5,4 @@
 #### Scope:
 Survey created in JotForms to understand the utilization of certain aspects of menu module.
 
+<img src="https://github.com/roywperez/survey-submissions/blob/master/charts/utilization-menu-planning-software.pdf" width = "250">
